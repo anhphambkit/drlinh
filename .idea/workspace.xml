@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f55b016-7738-4a79-86d7-c217401c0785" name="Default Changelist" comment="" />
+    <list default="true" id="5f55b016-7738-4a79-86d7-c217401c0785" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/access-nginx.log" beforeDir="false" afterPath="$PROJECT_DIR$/access-nginx.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
+            <state relative-caret-position="473">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -44,6 +47,9 @@
     <findStrings>
       <find>FS_</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -67,23 +73,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-            <path>
-              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-            <path>
-              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-              <item name="aeda85d1-5e6c-4f4c-bdf5-0dd385600fa9" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+              <item name="drlinh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drlinh" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -122,16 +113,18 @@
       <updated>1565970299299</updated>
       <workItem from="1565970300498" duration="917000" />
       <workItem from="1566012998050" duration="6000" />
+      <workItem from="1566203858393" duration="628000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="923000" />
+    <option name="totallyTimeSpent" value="1551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1110" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -164,11 +157,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
-          <folding>
-            <element signature="e#6#463#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="473">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
